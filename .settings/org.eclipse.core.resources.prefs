@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//Library/HTMLTestRunnerNew.py=utf-8
+encoding//Library/ddt.py=utf-8
+encoding//common/DiffExcelFile.py=utf-8
+encoding//common/HandleExcel.py=utf-8
+encoding//common/HandleLogging.py=utf-8
+encoding//common/HandleMySQL.py=utf-8
+encoding//common/HandleMySQL2.py=utf-8
+encoding//common/HandleWebservice.py=utf-8
+encoding//testcases/test_login.py=utf-8
+encoding//testcases/test_register.py=utf-8

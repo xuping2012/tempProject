@@ -1,0 +1,12 @@
+#### 接口自动化测试框架Demo
+###### 框架目录说明
+- common：一般功能组件，包括读取excel测试用例、日志收集器、mysql数据库读取、http/soap协议接口请求、参数替换类等
+- datas：存放excel测试用例文件
+- functions：单元测试功能类
+- Library：框架使用的ddt驱动、html报告工具类
+- logs：日志存放目录
+- properties：配置文件.conf、.ini
+- reports：报告目录
+- testcases：编写测试用例类存放目录
+- config.py：构建目录配置文件
+- run_main.py：框架执行入口
